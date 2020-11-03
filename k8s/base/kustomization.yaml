@@ -7,4 +7,4 @@ resources:
 namespace: demo-dev
 images:
 - name: uuvtqd/gitops-webapp
-  newTag: b0f92c824c949c3299389ffece12c773401f10e9
+  newTag: ed74fff9ded8958ac92356f09d41d5fc88933f0f
